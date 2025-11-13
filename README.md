@@ -88,7 +88,7 @@ Here’s what your `habitica_tasks.json` should look like:
 | `text` | Task name (appears in Habitica) |
 | `type` | Task type: `habit`, `daily`, `todo`, or `reward` |
 | `notes` | Optional description or notes |
-| `priority` | Task difficulty (0.1 = Trivial, 1 = normal, 1.5 = hard, 2 = very hard) |
+| `priority` | Task difficulty (0.1 = Trivial, 1 = Easy, 1.5 = Medium, 2 = hard) |
 | `attribute` | Stat affected (`str`, `int`, `con`, `per`) |
 | `tags` | List of tag names (created automatically if missing) |
 | `repeat` | Which weekdays the daily repeats on |
